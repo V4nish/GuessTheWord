@@ -1,6 +1,8 @@
 lyndonwatkins/WJEC-GCSE-CS-GuessTheWord
 =======================================
 
+[![DBAD License](https://raw.githubusercontent.com/lyndonwatkins/WJEC-GCSE-CS-GuessTheWord/master/License-DBAD-yellow.png)](http://www.dbad-license.org/)
+
 ### My attempt at the published WJEC "Guess the Word" problem. ###
 
 This is an advisory attempt at how one might BEGIN to attempt the WJEC Computer Science [Guess the Word](http://www.wjec.co.uk/qualifications/computer-science/computer-science-gcse/GCSE%20Controlled%20Assessment%202017-2018.zip?language_id=1) controlled assessment.
